@@ -54,4 +54,4 @@ Average | 0,76993 | 0,72791 | 0,57117 | 0,88086 | 0,64008 |
 In conclusion, the model is far from being precise and exact. The main problem is that there are too many false negatives. This may be caused by features that are not necessary or not as relevant in the model.
 
 ## References
-Pima Indians Diabetes Database. (2016, October 6). Retrieved from ![kaggle website](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+Pima Indians Diabetes Database. (2016, October 6). Retrieved from [kaggle website](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
