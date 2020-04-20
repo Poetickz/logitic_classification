@@ -7,7 +7,7 @@ Profesor: Dr. Andrés Hernández Gutiérrez
 Student: Alan Rocha
 
 ## About Logistic Classification
-The aim of the logistic classification is to determine whether or not an object x belongs to a class. To determine this, object x has multiple characteristics that help a model determine its class.
+The objective of the logistic classification is to determine whether or not an object x belongs to a class. To determine this, object x has multiple characteristics that help a model determine its class.
 
 In order to evaluate the object x, it must be evaluated with a hypothesis function, very similar as linear or multivariate regression. However, the hypothesis function must be changed, which must be:
 
