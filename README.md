@@ -49,7 +49,7 @@ FN | 37 | 23 | 26 | 16 | 29 | 19 | 20 | 19 | 23 | 23 | 23.5 |
 
 Metric | Accuracy | Precision | Recall | Specificity | F1 score |
 --- | --- | --- | --- | --- | --- |
-Average | 0,76993 | 0,72791 | 0,57117 | 0,88086 | 0,64008 |
+Average | 0.76993 | 0.72791 | 0.57117 | 0.88086 | 0.64008 |
 
 ### Conclusion
 In conclusion, the model is far from being precise and exact. The main problem is that there are too many false negatives. This may be caused by features that are not necessary or not as relevant in the model.
