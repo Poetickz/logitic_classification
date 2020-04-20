@@ -15,7 +15,7 @@ In order to evaluate the object x, it must be evaluated with a hypothesis functi
 
 ## About the data set Diabetes Prediction
 
-This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
+This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage. (_Pima Indians Diabetes Database, 2016_)
 
 ### Characteristics
 
@@ -52,3 +52,6 @@ Average | 0,76993 | 0,72791 | 0,57117 | 0,88086 | 0,64008 |
 
 ### Conclusion
 In conclusion, the model is far from being precise and exact. The main problem is that there are too many false negatives. This may be caused by features that are not necessary or not as relevant in the model.
+
+## References
+Pima Indians Diabetes Database. (2016, October 6). Retrieved from ![kaggle website](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
