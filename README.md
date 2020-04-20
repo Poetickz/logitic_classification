@@ -22,19 +22,12 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 Characteristics | Histogram | 
 --- | --- |
 Pregnancies (_Number of times pregnant_) | ![](./images/preg.jpeg) |
---- | --- |
 Glucose (_Plasma glucose concentration a 2 hours in an oral glucose tolerance test_) | ![](./images/glucose.jpeg) |
---- | --- |
 BloodPressure (_Diastolic blood pressure (mm Hg)_)| ![](./images/blood.jpeg) |
---- | --- |
 SkinThickness (_Triceps skin fold thickness (mm)_) | ![](./images/skin.jpeg) |
---- | --- |
 Insulin (_2-Hour serum insulin (mu U/ml)_) | ![](./images/insulin.jpeg) |
---- | --- |
 BMI (_Body mass index (weight in kg/(height in m)^2)_) | ![](./images/bmi.jpeg) |
---- | --- |
 DiabetesPedigreeFunction (_Diabetes pedigree function_) | ![](./images/diab.jpeg) |
---- | --- |
 Age (_In years_) | ![](./images/age.jpeg) |
 
 
@@ -48,12 +41,9 @@ The data is shuffled each time the program is executed, so it was decided to mak
 
 C.M.V | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | Avg. |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-TP | 24 | | 20 | 31	| 31 | 28	| 39 | 37	| 37 | 29 | 37 | 31.3 |
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+TP | 24 | 20 | 31	| 31 | 28	| 39 | 37	| 37 | 29 | 37 | 31.3 |
 TN | 82 | 102 | 85 | 93 | 83 | 81 | 86 | 86 | 84 | 83 | 86.5 |
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 FP | 10 | 8 | 11 | 13 | 13 | 14 | 10 | 11 | 17 | 10 | 11.7 |
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 FN | 37 | 23 | 26 | 16 | 29 | 19 | 20 | 19 | 23 | 23 | 23.5 |
 
 Metric | Accuracy | Precision | Recall | Specificity | F1 score |
