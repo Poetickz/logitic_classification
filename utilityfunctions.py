@@ -255,7 +255,7 @@ def print_perfomance_metrics(tp,tn, fp, fn):
     print("Confusion Matrix")
     print("--"*23)
     print("\t\t\t\t\t\tActual Class")
-    print("\t\t\t\t\tGranted(1)\tRefused(2)")
+    print("\t\t\t\t\tGranted(1)\tRefused(0)")
     print("Predicted Class\t\tGranted(1)\tTP: "+str(tp)+"\t\tFP: "+str(fp)+"")
     print("\t\t\tRefused(0)\tFN: "+str(fn)+"\t\tTN: "+str(tn)+"")
     print("\n")
