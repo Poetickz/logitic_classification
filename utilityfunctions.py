@@ -249,12 +249,16 @@ def print_perfomance_metrics(tp,tn, fp, fn):
             fn = False negative (count)
     OUTPUT: NONE
     """
-
-    #Prints confusion matrix variables
-    print("TP: "+str(tp))
-    print("TN: "+str(tn))
-    print("FP: "+str(fp))
-    print("FN: "+str(fn))
+    #Prints confusion matrix
+    print("\n")
+    print("--"*23)
+    print("Confusion Matrix")
+    print("--"*23)
+    print("\t\t\t\t\t\tActual Class")
+    print("\t\t\t\t\tGranted(1)\tRefused(2)")
+    print("Predicted Class\t\tGranted(1)\tTP: "+str(tp)+"\t\tFP: "+str(fp)+"")
+    print("\t\t\tRefused(0)\tFN: "+str(fn)+"\t\tTN: "+str(tn)+"")
+    print("\n")
 
     # Calculate accuracy
     accuracy = (tp+tn)/(tp+tn+fp+fn)
