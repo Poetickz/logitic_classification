@@ -1,5 +1,5 @@
 # Logistic Classification Practice
-This repo is used for Multilineal Regression Practice
+This repo is used for a Logistic Classification Practice
 
 ## Credits
 Profesor: Dr. Andrés Hernández Gutiérrez
@@ -11,7 +11,7 @@ The Logistic classification aim is to determine whether or not an object x belon
 
 In order to evaluate the object x, it must be evaluated with a hypothesis function, very similar as linear or multivariate regression. However, the hypothesis function must be changed, which must be:
 
-![](./images/function.jpeg)
+![](./images/function.png)
 
 ## About the data set Diabetes Prediction
 
@@ -21,14 +21,14 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 
 Characteristics | Histogram | 
 --- | --- |
-Pregnancies (_Number of times pregnant_) | ![](./images/preg.jpeg) |
-Glucose (_Plasma glucose concentration a 2 hours in an oral glucose tolerance test_) | ![](./images/glucose.jpeg) |
-BloodPressure (_Diastolic blood pressure (mm Hg)_)| ![](./images/blood.jpeg) |
-SkinThickness (_Triceps skin fold thickness (mm)_) | ![](./images/skin.jpeg) |
-Insulin (_2-Hour serum insulin (mu U/ml)_) | ![](./images/insulin.jpeg) |
-BMI (_Body mass index (weight in kg/(height in m)^2)_) | ![](./images/bmi.jpeg) |
-DiabetesPedigreeFunction (_Diabetes pedigree function_) | ![](./images/diab.jpeg) |
-Age (_In years_) | ![](./images/age.jpeg) |
+Pregnancies (_Number of times pregnant_) | ![](./images/preg.png) |
+Glucose (_Plasma glucose concentration a 2 hours in an oral glucose tolerance test_) | ![](./images/glucose.png) |
+BloodPressure (_Diastolic blood pressure (mm Hg)_)| ![](./images/blood.png) |
+SkinThickness (_Triceps skin fold thickness (mm)_) | ![](./images/skin.png) |
+Insulin (_2-Hour serum insulin (mu U/ml)_) | ![](./images/insulin.png) |
+BMI (_Body mass index (weight in kg/(height in m)^2)_) | ![](./images/bmi.png) |
+DiabetesPedigreeFunction (_Diabetes pedigree function_) | ![](./images/diab.png) |
+Age (_In years_) | ![](./images/age.png) |
 
 
 ## Discussion
